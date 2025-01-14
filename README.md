@@ -8,5 +8,8 @@ Bienvenidos a mi proyecto, aqui hice un juego basico donde muestro mecanicas int
 
 *Imagenes del juego:
 
+![Captura de pantalla 2025-01-14 112543](https://github.com/user-attachments/assets/d7d21476-830d-4a85-9010-c91e9b0c0b27)
 
 ![Captura de pantalla 2025-01-14 112605](https://github.com/user-attachments/assets/78417f28-1ecc-4432-8bb9-d2b46808002d)
+
+![Captura de pantalla 2025-01-14 112553](https://github.com/user-attachments/assets/4db440db-41d1-4e45-989b-557eb3a5cbeb)
