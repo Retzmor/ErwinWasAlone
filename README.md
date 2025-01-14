@@ -7,4 +7,5 @@ Bienvenidos a mi proyecto, aqui hice un juego basico donde muestro mecanicas int
 - 🖥️ Controles optimizados y sencillos de usar
 
 *Imagenes del juego:
+Captura de pantalla 2025-01-14 112605.png
 
