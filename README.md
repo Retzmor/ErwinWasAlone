@@ -13,3 +13,7 @@ Bienvenidos a mi proyecto, aqui hice un juego basico donde muestro mecanicas int
 ![Captura de pantalla 2025-01-14 112605](https://github.com/user-attachments/assets/78417f28-1ecc-4432-8bb9-d2b46808002d)
 
 ![Captura de pantalla 2025-01-14 112553](https://github.com/user-attachments/assets/4db440db-41d1-4e45-989b-557eb3a5cbeb)
+
+Tambien adjunto un video donde se ve una pequeño gameplay del juego:
+
+https://youtu.be/9WyL7kOdhX4
